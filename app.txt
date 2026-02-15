@@ -1,3 +1,5 @@
 version 1
 login fix
-hotfix
+
+payment fix
+>>>>>>> 8dbc040 (Payment fix)
